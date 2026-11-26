@@ -11,6 +11,5 @@ Me interesa especialmente el desarrollo backend y disfruto seguir aprendiendo y 
 En este perfil comparto **proyectos personales y trabajos universitarios** desarrollados durante mi formación, utilizando distintas tecnologías y herramientas.
 
 ### 📫 Contacto
-LinkedIn:[https://www.linkedin.com/in/fiorella-aguayo-b7480b38b](https://www.linkedin.com/in/fiorellamarinaaguayo-84a73528a/)
-Email: fiorellaaguayo03@gmail.com 
-### [Control de barrera — Arduino](https://github.com/FiorellaAguayo/ControlBarrera-CPP-Arduino)
+LinkedIn: https://www.linkedin.com/in/fiorella-aguayo-b7480b38
+Email: fiorellaaguayo03@gmail.com
