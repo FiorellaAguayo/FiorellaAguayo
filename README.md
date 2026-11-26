@@ -1,10 +1,10 @@
-# ¡Hola! Soy Fiorella Aguayo 👋
+# ¡Hola! Soy Fiorella Aguayo
 
 **Estudiante de Programación | Desarrollo de software y backend con C# y .NET**
 
 ## 👩‍💻 Sobre mí
 
-Tengo **[tu edad] años** y soy estudiante de Programación, con especial interés en el desarrollo de software, las aplicaciones backend y las bases de datos.
+Tengo 23 años y soy estudiante de Programación, con especial interés en el desarrollo de software, las aplicaciones backend y las bases de datos.
 
 Me gusta aprender nuevas tecnologías y aplicar mis conocimientos en proyectos que me permitan desarrollar habilidades técnicas y resolver problemas.
 
