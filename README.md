@@ -1,4 +1,4 @@
-# ¡Hola! Soy Fiorella Aguayo
+# Hola! Soy Fiorella Aguayo
 
 Tengo 23 años, vivo en Buenos Aires, Argentina, y soy **estudiante de Programación**. Mi nivel de inglés es intermedio.
 
